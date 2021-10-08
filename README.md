@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-Dette er et enkelt "tre på rad" eller "tic tac toe" spill. Appen fungerer og det er mulig og ta et game. Men jeg har en del mangler i gameactivity og gamemanager, slik at å spille med andre har vært et problem. Derfor valgte jeg heller å bruke de siste dagene på å få til et fungerende spill, i stedenfor å levere et produkt som ikke fungerer overhodet. Men mye av backenden er gjort, slik at gameservice og slikt skal være bra. 
+Dette er et enkelt "tre på rad" eller "tic tac toe" spill. Appen fungerer og det er mulig og ta et game. En del mangler som ikke er ferdig implementert.
 
 # Screenshots fra appen
 
